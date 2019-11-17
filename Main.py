@@ -6,24 +6,16 @@ import urllib
 from mimetypes import MimeTypes
 import os
 
-
+"""
+Funcation takes a connection object(Connection class) and the start_directory(default is HOME)
+"""
 def main(connection, home_dir = os.environ['HOME']):
-    data = connection.receive()
+    data = connection.receive() # ask connection object to receive data
     if(data == ''):         # if the data received is empty don't proceed
         connection.close()
         return
     req_name = (data.split('\n')[0]).split(' ')[1].strip()
     curr_req_time = time.time()
-    """
-    if(req_name == prev_req_name
-            and str(addr[0]) == str(prev_addr) 
-            and (curr_req_time - prev_req_time) < 2):   # if the request is duplicate don't proceed
-        connectionSocket.close()
-        continue
-    prev_req_name = req_name
-    prev_req_time = curr_req_time
-    prev_addr = addr[0]
-    """
     
     connection.logger.info("Connection Accepted: Client: " + str(connection.clientAddr))
     # use the below print statement to print the request ( for debugging )
@@ -60,9 +52,9 @@ def main(connection, home_dir = os.environ['HOME']):
                 response += data    # attaching the binary format of the text to the http response
         # use the below print statement to print the statement ( for debugging )
         # print(response)
-        connection.send(response)
+        connection.send(response)   # ask connection object to send response
         connection.logger.info("Request successfully served: Response Sent with the requested file atatched")
-        connection.close()
+        connection.close()  # ask connection object to close the connection
         connection.logger.info("Connection Closed: Connection with client " + str(connection.clientAddr) + " closed")
         return
 
@@ -97,7 +89,7 @@ def main(connection, home_dir = os.environ['HOME']):
     # use the below print statement for printing the response ( for debugging )
     # print('=== Response ===')
     # print(response)
-    connection.close()
+    connection.close()  # ask connection object to close connection
     connection.logger.info("Connection Closed: Connection with client " + str(connection.clientAddr) + " closed")
     return
     # print("\n------- " + str(times) + " ------ Connection Closed ----------------\n")

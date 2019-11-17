@@ -32,15 +32,13 @@ serverPort = 12555          # serverPort for the server
 serverAddr = ('', serverPort)
 serverSocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM) # Using ipv4 addressing and TCP stream
 serverSocket.bind(serverAddr)   # binding the address to the socket
-manager = myConnectionManager.ConnectionManager(logger)
+manager = myConnectionManager.ConnectionManager(logger) # ConnectionManager object for maintaing all the connections
 response = bytes()      # reponse bytes object
-serverSocket.listen(5)
+serverSocket.listen(5)  # backlog 5
 logger.info('The server lsitening at ' + str(serverPort))
-prev_req_name = ''
-prev_req_time = -1000   # previous request time to handle duplicate requests
-prev_addr = 0
 while 1:
     clientSocket, clientAddr = serverSocket.accept()
-    connection = manager.getConnectionObject(clientSocket, clientAddr)
-    connection.startConnection()
+    connection = manager.getConnectionObject(clientSocket, clientAddr)  # ask ConnectionManager to return a connection
+                                                                        #   for clientSocket and clientAddr
+    connection.startConnection()    # ask connection object to start connection
 serverSocket.close()

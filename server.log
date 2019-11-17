@@ -1,105 +1,101 @@
-2019-11-14 11:11:38,865 The server lsitening at 12555
-2019-11-14 11:11:41,028 Connection Accepted: Client: ('127.0.0.1', 11346)
-2019-11-14 11:11:41,029 Requested  File: /
-2019-11-14 11:11:41,030 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:11:41,031 Connection Closed: Connection with client ('127.0.0.1', 11346) closed
-2019-11-14 11:11:41,957 Connection Accepted: Client: ('127.0.0.1', 11347)
-2019-11-14 11:11:41,958 Requested  File: /
-2019-11-14 11:11:41,959 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:11:41,959 Connection Closed: Connection with client ('127.0.0.1', 11347) closed
-2019-11-14 11:11:41,960 Connection Accepted: Client: ('127.0.0.1', 11348)
-2019-11-14 11:11:41,960 Requested  File: /favicon.ico
-2019-11-14 11:11:41,960 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:11:41,961 Connection Closed: Connection with client ('127.0.0.1', 11348) closed
-2019-11-14 11:11:45,489 Connection Accepted: Client: ('127.0.0.1', 11366)
-2019-11-14 11:11:45,489 Requested  File: /MTG.jpg
-2019-11-14 11:11:45,499 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:11:45,500 Connection Closed: Connection with client ('127.0.0.1', 11366) closed
-2019-11-14 11:11:45,882 Connection Accepted: Client: ('127.0.0.1', 11367)
-2019-11-14 11:11:45,882 Requested  File: /MTG.jpg
-2019-11-14 11:11:45,884 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:11:45,885 Connection Closed: Connection with client ('127.0.0.1', 11367) closed
-2019-11-14 11:11:45,887 Connection Accepted: Client: ('127.0.0.1', 11368)
-2019-11-14 11:11:45,887 Requested  File: /favicon.ico
-2019-11-14 11:11:45,888 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:11:45,888 Connection Closed: Connection with client ('127.0.0.1', 11368) closed
-2019-11-14 11:11:47,520 Connection Accepted: Client: ('127.0.0.1', 11374)
-2019-11-14 11:11:47,520 Requested  File: /
-2019-11-14 11:11:47,521 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:11:47,521 Connection Closed: Connection with client ('127.0.0.1', 11374) closed
-2019-11-14 11:11:47,541 Connection Accepted: Client: ('127.0.0.1', 11375)
-2019-11-14 11:11:47,542 Requested  File: /favicon.ico
-2019-11-14 11:11:47,542 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:11:47,542 Connection Closed: Connection with client ('127.0.0.1', 11375) closed
-2019-11-14 11:11:48,723 Connection Accepted: Client: ('127.0.0.1', 11383)
-2019-11-14 11:11:48,723 Requested  File: /.viminfo
-2019-11-14 11:11:48,725 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:11:48,725 Connection Closed: Connection with client ('127.0.0.1', 11383) closed
-2019-11-14 11:11:49,232 Connection Accepted: Client: ('127.0.0.1', 11384)
-2019-11-14 11:11:49,232 Connection Accepted: Client: ('127.0.0.1', 11387)
-2019-11-14 11:11:49,232 Requested  File: /.viminfo
-2019-11-14 11:11:49,233 Requested  File: /favicon.ico
-2019-11-14 11:11:49,234 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:11:49,234 Connection Closed: Connection with client ('127.0.0.1', 11387) closed
-2019-11-14 11:11:49,234 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:11:49,235 Connection Closed: Connection with client ('127.0.0.1', 11384) closed
-2019-11-14 11:12:00,785 Connection Accepted: Client: ('127.0.0.1', 11424)
-2019-11-14 11:12:00,786 Connection Accepted: Client: ('127.0.0.1', 11425)
-2019-11-14 11:12:00,786 Requested  File: /favicon.ico
-2019-11-14 11:12:00,787 Requested  File: /
-2019-11-14 11:12:00,788 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:12:00,789 Connection Closed: Connection with client ('127.0.0.1', 11424) closed
-2019-11-14 11:12:00,789 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:12:00,790 Connection Closed: Connection with client ('127.0.0.1', 11425) closed
-2019-11-14 11:12:02,727 Connection Accepted: Client: ('127.0.0.1', 11438)
-2019-11-14 11:12:02,727 Requested  File: /.gemrc
-2019-11-14 11:12:02,732 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:12:02,732 Connection Closed: Connection with client ('127.0.0.1', 11438) closed
-2019-11-14 11:12:03,182 Connection Accepted: Client: ('127.0.0.1', 11439)
-2019-11-14 11:12:03,183 Requested  File: /.gemrc
-2019-11-14 11:12:03,184 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:12:03,184 Connection Closed: Connection with client ('127.0.0.1', 11439) closed
-2019-11-14 11:12:03,185 Connection Accepted: Client: ('127.0.0.1', 11443)
-2019-11-14 11:12:03,185 Requested  File: /favicon.ico
-2019-11-14 11:12:03,185 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:12:03,186 Connection Closed: Connection with client ('127.0.0.1', 11443) closed
-2019-11-14 11:12:05,225 Connection Accepted: Client: ('127.0.0.1', 11451)
-2019-11-14 11:12:05,226 Requested  File: /
-2019-11-14 11:12:05,226 Connection Accepted: Client: ('127.0.0.1', 11452)
-2019-11-14 11:12:05,226 Requested  File: /favicon.ico
-2019-11-14 11:12:05,226 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:12:05,227 Connection Closed: Connection with client ('127.0.0.1', 11452) closed
-2019-11-14 11:12:05,227 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:12:05,227 Connection Closed: Connection with client ('127.0.0.1', 11451) closed
-2019-11-14 11:12:07,161 Connection Accepted: Client: ('127.0.0.1', 11460)
-2019-11-14 11:12:07,162 Requested  File: /.bash_profile
-2019-11-14 11:12:07,163 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:12:07,164 Connection Closed: Connection with client ('127.0.0.1', 11460) closed
-2019-11-14 11:12:07,619 Connection Accepted: Client: ('127.0.0.1', 11461)
-2019-11-14 11:12:07,619 Requested  File: /.bash_profile
-2019-11-14 11:12:07,620 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:12:07,620 Connection Closed: Connection with client ('127.0.0.1', 11461) closed
-2019-11-14 11:12:07,621 Connection Accepted: Client: ('127.0.0.1', 11463)
-2019-11-14 11:12:07,621 Requested  File: /favicon.ico
-2019-11-14 11:12:07,621 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:12:07,621 Connection Closed: Connection with client ('127.0.0.1', 11463) closed
-2019-11-14 11:12:09,124 Connection Accepted: Client: ('127.0.0.1', 11470)
-2019-11-14 11:12:09,124 Requested  File: /
-2019-11-14 11:12:09,125 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:12:09,126 Connection Closed: Connection with client ('127.0.0.1', 11470) closed
-2019-11-14 11:12:09,126 Connection Accepted: Client: ('127.0.0.1', 11471)
-2019-11-14 11:12:09,126 Requested  File: /favicon.ico
-2019-11-14 11:12:09,126 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:12:09,127 Connection Closed: Connection with client ('127.0.0.1', 11471) closed
-2019-11-14 11:49:48,903 Connection Accepted: Client: ('127.0.0.1', 4457)
-2019-11-14 11:49:48,977 Requested  File: /
-2019-11-14 11:49:49,073 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:49:49,074 Connection Closed: Connection with client ('127.0.0.1', 4457) closed
-2019-11-14 11:49:50,900 Connection Accepted: Client: ('127.0.0.1', 4458)
-2019-11-14 11:49:50,900 Requested  File: /
-2019-11-14 11:49:50,901 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:49:50,902 Connection Closed: Connection with client ('127.0.0.1', 4458) closed
-2019-11-14 11:49:51,010 Connection Accepted: Client: ('127.0.0.1', 4460)
-2019-11-14 11:49:51,011 Requested  File: /favicon.ico
-2019-11-14 11:49:51,020 Request successfully served: Resposne Sent with the requested file atatched
-2019-11-14 11:49:51,085 Connection Closed: Connection with client ('127.0.0.1', 4460) closed
+2019-11-17 07:28:37,797 The server lsitening at 12555
+2019-11-17 07:28:43,787 Connection Accepted: Client: ('127.0.0.1', 10510)
+2019-11-17 07:28:43,787 Requested  File: /
+2019-11-17 07:28:43,787 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:28:43,788 Connection Closed: Connection with client ('127.0.0.1', 10510) closed
+2019-11-17 07:28:44,375 Connection Accepted: Client: ('127.0.0.1', 10511)
+2019-11-17 07:28:44,375 Requested  File: /
+2019-11-17 07:28:44,375 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:28:44,375 Connection Closed: Connection with client ('127.0.0.1', 10511) closed
+2019-11-17 07:28:44,376 Connection Accepted: Client: ('127.0.0.1', 10515)
+2019-11-17 07:28:44,376 Requested  File: /favicon.ico
+2019-11-17 07:28:44,376 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:28:44,376 Connection Closed: Connection with client ('127.0.0.1', 10515) closed
+2019-11-17 07:28:50,428 Connection Accepted: Client: ('127.0.0.1', 10543)
+2019-11-17 07:28:50,428 Requested  File: /.gitconfig
+2019-11-17 07:28:50,428 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:28:50,429 Connection Closed: Connection with client ('127.0.0.1', 10543) closed
+2019-11-17 07:28:50,876 Connection Accepted: Client: ('127.0.0.1', 10544)
+2019-11-17 07:28:50,876 Requested  File: /.gitconfig
+2019-11-17 07:28:50,877 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:28:50,877 Connection Closed: Connection with client ('127.0.0.1', 10544) closed
+2019-11-17 07:28:50,877 Connection Accepted: Client: ('127.0.0.1', 10545)
+2019-11-17 07:28:50,877 Requested  File: /favicon.ico
+2019-11-17 07:28:50,877 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:28:50,877 Connection Closed: Connection with client ('127.0.0.1', 10545) closed
+2019-11-17 07:28:53,581 Connection Accepted: Client: ('127.0.0.1', 10558)
+2019-11-17 07:28:53,581 Requested  File: /
+2019-11-17 07:28:53,582 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:28:53,582 Connection Closed: Connection with client ('127.0.0.1', 10558) closed
+2019-11-17 07:28:53,593 Connection Accepted: Client: ('127.0.0.1', 10559)
+2019-11-17 07:28:53,593 Requested  File: /favicon.ico
+2019-11-17 07:28:53,593 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:28:53,593 Connection Closed: Connection with client ('127.0.0.1', 10559) closed
+2019-11-17 07:28:58,693 Connection Accepted: Client: ('127.0.0.1', 10578)
+2019-11-17 07:28:58,694 Requested  File: /neutron-api-wsgiget
+2019-11-17 07:28:58,699 Request successfully served: Response Sent with the requested file atatched
+2019-11-17 07:28:58,700 Connection Closed: Connection with client ('127.0.0.1', 10578) closed
+2019-11-17 07:29:10,186 Connection Accepted: Client: ('127.0.0.1', 10626)
+2019-11-17 07:29:10,186 Requested  File: /tempget
+2019-11-17 07:29:10,674 Request successfully served: Response Sent with the requested file atatched
+2019-11-17 07:29:10,674 Connection Closed: Connection with client ('127.0.0.1', 10626) closed
+2019-11-17 07:29:25,119 Connection Accepted: Client: ('127.0.0.1', 10681)
+2019-11-17 07:29:25,119 Requested  File: /temp
+2019-11-17 07:29:25,119 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:29:25,119 Connection Closed: Connection with client ('127.0.0.1', 10681) closed
+2019-11-17 07:29:25,594 Connection Accepted: Client: ('127.0.0.1', 10682)
+2019-11-17 07:29:25,595 Requested  File: /temp
+2019-11-17 07:29:25,595 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:29:25,595 Connection Closed: Connection with client ('127.0.0.1', 10682) closed
+2019-11-17 07:29:25,597 Connection Accepted: Client: ('127.0.0.1', 10683)
+2019-11-17 07:29:25,597 Requested  File: /favicon.ico
+2019-11-17 07:29:25,597 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:29:25,597 Connection Closed: Connection with client ('127.0.0.1', 10683) closed
+2019-11-17 07:29:33,278 Connection Accepted: Client: ('127.0.0.1', 10713)
+2019-11-17 07:29:33,278 Requested  File: /temp/a.txt
+2019-11-17 07:29:33,279 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:29:33,279 Connection Closed: Connection with client ('127.0.0.1', 10713) closed
+2019-11-17 07:29:33,559 Connection Accepted: Client: ('127.0.0.1', 10714)
+2019-11-17 07:29:33,559 Requested  File: /temp/a.txt
+2019-11-17 07:29:33,560 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:29:33,560 Connection Closed: Connection with client ('127.0.0.1', 10714) closed
+2019-11-17 07:29:33,563 Connection Accepted: Client: ('127.0.0.1', 10719)
+2019-11-17 07:29:33,563 Requested  File: /favicon.ico
+2019-11-17 07:29:33,564 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:29:33,564 Connection Closed: Connection with client ('127.0.0.1', 10719) closed
+2019-11-17 07:29:37,205 Connection Accepted: Client: ('127.0.0.1', 10734)
+2019-11-17 07:29:37,205 Requested  File: /temp
+2019-11-17 07:29:37,206 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:29:37,207 Connection Closed: Connection with client ('127.0.0.1', 10734) closed
+2019-11-17 07:29:37,209 Connection Accepted: Client: ('127.0.0.1', 10735)
+2019-11-17 07:29:37,209 Requested  File: /favicon.ico
+2019-11-17 07:29:37,209 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:29:37,209 Connection Closed: Connection with client ('127.0.0.1', 10735) closed
+2019-11-17 07:29:37,664 Connection Accepted: Client: ('127.0.0.1', 10739)
+2019-11-17 07:29:37,664 Requested  File: /
+2019-11-17 07:29:37,664 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:29:37,664 Connection Closed: Connection with client ('127.0.0.1', 10739) closed
+2019-11-17 07:29:37,683 Connection Accepted: Client: ('127.0.0.1', 10740)
+2019-11-17 07:29:37,683 Requested  File: /favicon.ico
+2019-11-17 07:29:37,683 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:29:37,684 Connection Closed: Connection with client ('127.0.0.1', 10740) closed
+2019-11-17 07:29:39,270 Connection Accepted: Client: ('127.0.0.1', 10748)
+2019-11-17 07:29:39,270 Requested  File: /MTG.jpg
+2019-11-17 07:29:39,273 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:29:39,273 Connection Closed: Connection with client ('127.0.0.1', 10748) closed
+2019-11-17 07:29:39,552 Connection Accepted: Client: ('127.0.0.1', 10749)
+2019-11-17 07:29:39,552 Requested  File: /MTG.jpg
+2019-11-17 07:29:39,553 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:29:39,553 Connection Closed: Connection with client ('127.0.0.1', 10749) closed
+2019-11-17 07:29:39,641 Connection Accepted: Client: ('127.0.0.1', 10754)
+2019-11-17 07:29:39,641 Requested  File: /favicon.ico
+2019-11-17 07:29:39,641 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:29:39,641 Connection Closed: Connection with client ('127.0.0.1', 10754) closed
+2019-11-17 07:29:40,505 Connection Accepted: Client: ('127.0.0.1', 10758)
+2019-11-17 07:29:40,506 Requested  File: /
+2019-11-17 07:29:40,507 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:29:40,508 Connection Closed: Connection with client ('127.0.0.1', 10758) closed
+2019-11-17 07:29:40,520 Connection Accepted: Client: ('127.0.0.1', 10759)
+2019-11-17 07:29:40,520 Requested  File: /favicon.ico
+2019-11-17 07:29:40,520 Request successfully served: Resposne Sent with the requested file atatched
+2019-11-17 07:29:40,520 Connection Closed: Connection with client ('127.0.0.1', 10759) closed
